@@ -7,9 +7,9 @@ text-decoration: none;
 }
 
 .body-main{
-    font-family: 'sans-serif';
+    font-family: sans-serif;
     color: #434455;
-    }
+}
 
 .page-header {
 
@@ -20,15 +20,10 @@ text-decoration: none;
 }
 
 .logo-link {
-    font-family: 'sans-serif';
-    line-height: 1.17;
-    width: 44px;
-    height: 24px;
-    font-style: normal;
+    font-family: sans-serif;
     font-weight: 800;
     font-size: 18px;
-    display: flex;
-    align-items: center;
+    line-height: 1.17;
     letter-spacing: 0.03em;
     text-transform: uppercase;
     color: #4D5AE5;
