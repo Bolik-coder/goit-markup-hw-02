@@ -7,7 +7,7 @@ text-decoration: none;
 }
 
 .body-main{
-    font-family: sans-serif;
+    font-family: 'sans-serif';
     color: #434455;
     }
 
@@ -20,7 +20,7 @@ text-decoration: none;
 }
 
 .logo-link {
-    font-family: sans-serif;
+    font-family: 'sans-serif';
     line-height: 1.17;
     width: 44px;
     height: 24px;
