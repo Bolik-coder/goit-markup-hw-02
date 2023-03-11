@@ -72,7 +72,7 @@ text-decoration: none;
     background-color: #2e2f42;
 }
 
-.h-1 {
+.h-1-m {
     font-size: 56px;
     line-height: 1.07;
     text-align: center;
@@ -99,3 +99,8 @@ text-decoration: none;
     color: #4d5ae5;
     cursor: pointer;
 }
+
+.h-2-m {
+
+}
+
