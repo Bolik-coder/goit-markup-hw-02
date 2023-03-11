@@ -46,6 +46,11 @@ text-decoration: none;
     
     }
 
+.menu-link:hover,
+.menu-link:focus {
+    color: #404bbf;
+}
+
 .addres-list {
     font-style: normal;
     line-height: 1.5;
