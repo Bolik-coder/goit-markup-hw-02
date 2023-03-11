@@ -20,6 +20,7 @@ text-decoration: none;
 }
 
 .logo-link {
+    font-family: sans-serif
     width: 44px;
     height: 24px;
     font-family: 'Raleway';
