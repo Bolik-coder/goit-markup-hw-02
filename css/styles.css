@@ -34,15 +34,15 @@ text-decoration: none;
 }
 
 .menu-item {
-    
-
-}
-
-.menu-link {
     color: #2e2f42;
     font-weight: 500;
     line-height: 1.5;
     letter-spacing: 0.02em;
+
+}
+
+.menu-link {
+    
     }
 
 .addres-list {
