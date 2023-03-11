@@ -72,7 +72,7 @@ text-decoration: none;
     background-color: #2e2f42;
 }
 
-.h-1-m {
+.main-title {
     font-size: 56px;
     line-height: 1.07;
     text-align: center;
@@ -100,11 +100,11 @@ text-decoration: none;
     cursor: pointer;
 }
 
-.h-2-m {
+.sub-title {
 
 }
 
-.h-3-m {
+.sub-title-text {
     font-weight: 500;
     font-size: 20px;
     line-height: 1.2;
