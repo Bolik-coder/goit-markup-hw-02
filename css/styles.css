@@ -91,6 +91,11 @@ body {
     background: #4D5AE5;
 }
 
+.order-btn:hover,
+.order-btn:focus {
+    color: #404BBF; 
+}
+
 .sub-title {
     font-size: 36px;
     line-height: 1.11;
@@ -114,6 +119,10 @@ body {
     line-height: 1.5;
     letter-spacing: 0.02em;
     color: #434455;
+}
+
+.section-team {
+    background-color: #F4F4FD
 }
 
 .foot {
