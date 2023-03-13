@@ -6,7 +6,7 @@
 text-decoration: none;
 }
 
-.body-main{
+body {
     font-family: "Roboto", sans-serif;
     color: #434455;
 }
@@ -88,6 +88,7 @@ text-decoration: none;
     letter-spacing: 0.04em;
     color: #ffffff;
     cursor: pointer;
+    background: #4D5AE5;
 }
 
 .sub-title {
