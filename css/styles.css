@@ -153,5 +153,11 @@ body {
     letter-spacing: 0.04em;
     color: #4d5ae5;
     cursor: pointer;
+    background-color: #F4F4FD;
 }
 
+.but-port:hover,
+.but-port:focus {
+    color: #FFFFFF;
+    background-color: #404BBF;
+}
